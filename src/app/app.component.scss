@@ -1,0 +1,61 @@
+html,body {
+  margin: 0px;
+  height: 100%;
+}
+
+.box {
+  background-color: #282828;
+  // background-color: #ed0303;
+}
+
+.span_title {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.mat-toolbar {
+  // background-color: #ed0303;
+  background-color: #212121;
+  display: flex;
+  width: 100%;
+}
+
+h2 {
+  color: white;
+}
+
+hr {
+  border-top-color: white;
+}
+
+h4 {
+  color: white;
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.icon {
+  color: #607d8b;
+  width: auto;
+  height: auto;
+  font-size: 25px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+span {
+  font-size: 14px;
+  color: white;
+}
+
+button {
+  float: right;
+}
+
+.example-full-width {
+  width: 100%;
+
+}
